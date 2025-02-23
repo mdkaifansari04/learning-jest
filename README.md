@@ -67,7 +67,13 @@ npm install
 
 ```sh
 npm test
+
 ```
+
+## Learning resource
+
+    [Jest Docs](https://jestjs.io/docs/getting-started)
+    [Freecodecamp video](https://youtu.be/IPiUDhwnZxA?si=9NRO3JPcqqkz4ORz)
 
 ## 🤝 Contributing
 
